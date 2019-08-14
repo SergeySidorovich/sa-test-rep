@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add info from dev branch. 2nd commit
+=======
+add info from hotfix branch
+>>>>>>> hotfix/we_gonna_die
